@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻 LeetCode Practice
 
 This repository contains my **LeetCode problem solutions**, organized by difficulty.  
@@ -42,3 +43,7 @@ _None yet_
    _Example: `01-Two Sum.cpp`_
 3. Edit this README and add your entry under the correct difficulty.
 4. Commit and push with a clear message:
+=======
+# LeetCode-Practice
+Repository containing my daily LeetCode practice solutions. Each problem includes code, approach explanation, and complexity analysis. Organized by difficulty: Easy, Medium, Hard.
+>>>>>>> 17e8c4911350afb60111a6fed35e12c0044796a3

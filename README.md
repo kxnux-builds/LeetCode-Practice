@@ -27,23 +27,12 @@ LeetCode-Practice/
 
 ### 🟡 Medium
 
-_None yet_
+| Problem | LeetCode Link | Solution |
+|---------|---------------|----------|
+|  3 Sum  | https://leetcode.com/problems/3sum/description/ | ✅ |
 
 ### 🔴 Hard
 
 _None yet_
 
 ---
-
-## 🚀 How to Add New Problems
-
-1. Add the solution file inside the correct folder: `Easy/`, `Medium/`, or `Hard/`.
-2. Use the naming format:  
-   **`{ProblemNumber}-{ProblemName}.{cpp|py}`**  
-   _Example: `01-Two Sum.cpp`_
-3. Edit this README and add your entry under the correct difficulty.
-4. Commit and push with a clear message:
-=======
-# LeetCode-Practice
-Repository containing my daily LeetCode practice solutions. Each problem includes code, approach explanation, and complexity analysis. Organized by difficulty: Easy, Medium, Hard.
->>>>>>> 17e8c4911350afb60111a6fed35e12c0044796a3

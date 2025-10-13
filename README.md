@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻 LeetCode Practice
 
 This repository contains my **LeetCode problem solutions**, organized by difficulty.  
@@ -30,6 +29,7 @@ LeetCode-Practice/
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
 |  3 Sum  | https://leetcode.com/problems/3sum/description/ | ✅ |
+|  Container With Most Water  | https://leetcode.com/problems/container-with-most-water/description/ | ✅ |
 
 ### 🔴 Hard
 

@@ -11,7 +11,7 @@ LeetCode-Practice/
 ├── Easy/
 ├── Medium/
 ├── Hard/
-├──.gitignore
+├── .gitignore
 └── README.md
 
 ---
@@ -23,17 +23,21 @@ LeetCode-Practice/
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
 | Two Sum | https://leetcode.com/problems/two-sum/description/ | ✅ |
+| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
 
 ### 🟡 Medium
 
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
-|  3 Sum  | https://leetcode.com/problems/3sum/description/ | ✅ |
-|  Container With Most Water  | https://leetcode.com/problems/container-with-most-water/description/ | ✅ |
-|  4 Sum  | https://leetcode.com/problems/4sum/description/ | ✅ |
+| 3 Sum | https://leetcode.com/problems/3sum/description/ | ✅ |
+| Container With Most Water | https://leetcode.com/problems/container-with-most-water/description/ | ✅ |
+| 4 Sum | https://leetcode.com/problems/4sum/description/ | ✅ |
+| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
 
 ### 🔴 Hard
 
-_None yet_
+| Problem | LeetCode Link | Solution |
+|---------|---------------|----------|
+| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
 
 ---

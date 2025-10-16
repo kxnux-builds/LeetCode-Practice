@@ -23,7 +23,7 @@ LeetCode-Practice/
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
 | Two Sum | https://leetcode.com/problems/two-sum/description/ | ✅ |
-| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
+| New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
 
@@ -32,12 +32,12 @@ LeetCode-Practice/
 | 3 Sum | https://leetcode.com/problems/3sum/description/ | ✅ |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water/description/ | ✅ |
 | 4 Sum | https://leetcode.com/problems/4sum/description/ | ✅ |
-| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
+| New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
 
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
-| New Problem | [Link]() | ❌ |  <!-- placeholder for future problems -->
+| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/description/ | ✅ |
+| New Problem | [Link]() | ❌ |
 
----

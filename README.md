@@ -23,6 +23,7 @@ LeetCode-Practice/
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
 | Two Sum | https://leetcode.com/problems/two-sum/description/ | ✅ |
+| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

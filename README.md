@@ -25,6 +25,7 @@ LeetCode-Practice/
 | Two Sum | https://leetcode.com/problems/two-sum/description/ | ✅ |
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/description/ | ✅ |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/description/ | ✅ |
+| Final Value of Variable After Performing Operations | https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -37,6 +37,7 @@ LeetCode-Practice/
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water/description/ | ✅ |
 | 4 Sum | https://leetcode.com/problems/4sum/description/ | ✅ |
 | Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements/description/ | ✅ |
+| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

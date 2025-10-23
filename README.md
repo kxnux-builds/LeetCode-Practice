@@ -38,6 +38,7 @@ LeetCode-Practice/
 | 4 Sum | https://leetcode.com/problems/4sum/description/ | ✅ |
 | Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements/description/ | ✅ |
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ | ✅ |
+| Permutations | https://leetcode.com/problems/permutations/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

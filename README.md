@@ -47,5 +47,6 @@ LeetCode-Practice/
 | Problem | LeetCode Link | Solution |
 |---------|---------------|----------|
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/description/ | ✅ |
+| Find Minimum in Rotated Sorted Array II | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 

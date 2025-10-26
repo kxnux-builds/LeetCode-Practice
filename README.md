@@ -27,6 +27,7 @@ LeetCode-Practice/
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/description/ | ✅ |
 | Final Value of Variable After Performing Operations | https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/ | ✅ |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs/description/ | ✅ |
+| Calculate Money in Leetcode Bank | https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

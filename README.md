@@ -42,6 +42,7 @@ LeetCode-Practice/
 | Permutations | https://leetcode.com/problems/permutations/description/ | ✅ |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ | ✅ |
 | Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/ | ✅ |
+| Rotate Array | https://leetcode.com/problems/rotate-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

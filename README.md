@@ -28,6 +28,7 @@ LeetCode-Practice/
 | Final Value of Variable After Performing Operations | https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/ | ✅ |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs/description/ | ✅ |
 | Calculate Money in Leetcode Bank | https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/ | ✅ |
+| Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

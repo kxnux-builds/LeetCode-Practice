@@ -29,6 +29,7 @@ LeetCode-Practice/
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs/description/ | ✅ |
 | Calculate Money in Leetcode Bank | https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/ | ✅ |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ | ✅ |
+| Guess Number Higher or Lower | https://leetcode.com/problems/guess-number-higher-or-lower/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

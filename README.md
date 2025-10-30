@@ -45,6 +45,7 @@ LeetCode-Practice/
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ | ✅ |
 | Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/ | ✅ |
 | Rotate Array | https://leetcode.com/problems/rotate-array/description/ | ✅ |
+| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

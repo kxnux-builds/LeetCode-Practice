@@ -30,6 +30,7 @@ LeetCode-Practice/
 | Calculate Money in Leetcode Bank | https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/ | ✅ |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ | ✅ |
 | Guess Number Higher or Lower | https://leetcode.com/problems/guess-number-higher-or-lower/description/ | ✅ |
+| The Two Sneaky Numbers of Digitville | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

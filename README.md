@@ -31,6 +31,7 @@ LeetCode-Practice/
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ | ✅ |
 | Guess Number Higher or Lower | https://leetcode.com/problems/guess-number-higher-or-lower/description/ | ✅ |
 | The Two Sneaky Numbers of Digitville | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/ | ✅ |
+| Greatest Common Divisor of Strings | https://leetcode.com/problems/greatest-common-divisor-of-strings/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

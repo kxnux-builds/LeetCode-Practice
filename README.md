@@ -49,6 +49,7 @@ LeetCode-Practice/
 | Rotate Array | https://leetcode.com/problems/rotate-array/description/ | ✅ |
 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ | ✅ |
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/description/ | ✅ |
+| Sort Vowels in a String | https://leetcode.com/problems/sort-vowels-in-a-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -32,7 +32,7 @@ LeetCode-Practice/
 | Guess Number Higher or Lower | https://leetcode.com/problems/guess-number-higher-or-lower/description/ | ✅ |
 | The Two Sneaky Numbers of Digitville | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/ | ✅ |
 | Greatest Common Divisor of Strings | https://leetcode.com/problems/greatest-common-divisor-of-strings/description/ | ✅ |
-| Guess Number Higher or Lower | https://leetcode.com/problems/smallest-number-with-all-set-bits/description/ | ✅ |
+| Smallest Number With All Set Bits | https://leetcode.com/problems/smallest-number-with-all-set-bits/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

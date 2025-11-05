@@ -33,6 +33,7 @@ LeetCode-Practice/
 | The Two Sneaky Numbers of Digitville | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/ | ✅ |
 | Greatest Common Divisor of Strings | https://leetcode.com/problems/greatest-common-divisor-of-strings/description/ | ✅ |
 | Smallest Number With All Set Bits | https://leetcode.com/problems/smallest-number-with-all-set-bits/description/ | ✅ |
+| Kids With the Greatest Number of Candies | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

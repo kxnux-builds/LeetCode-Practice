@@ -34,6 +34,7 @@ LeetCode-Practice/
 | Greatest Common Divisor of Strings | https://leetcode.com/problems/greatest-common-divisor-of-strings/description/ | ✅ |
 | Smallest Number With All Set Bits | https://leetcode.com/problems/smallest-number-with-all-set-bits/description/ | ✅ |
 | Kids With the Greatest Number of Candies | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | ✅ |
+| Roman to Integer | https://leetcode.com/problems/roman-to-integer/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

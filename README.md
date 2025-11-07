@@ -53,6 +53,7 @@ LeetCode-Practice/
 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ | ✅ |
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/description/ | ✅ |
 | Sort Vowels in a String | https://leetcode.com/problems/sort-vowels-in-a-string/description/ | ✅ |
+| String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

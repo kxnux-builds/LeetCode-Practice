@@ -62,5 +62,6 @@ LeetCode-Practice/
 |---------|---------------|----------|
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/description/ | ✅ |
 | Find Minimum in Rotated Sorted Array II | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/ | ✅ |
+| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 

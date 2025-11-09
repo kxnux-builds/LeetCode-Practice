@@ -35,6 +35,7 @@ LeetCode-Practice/
 | Smallest Number With All Set Bits | https://leetcode.com/problems/smallest-number-with-all-set-bits/description/ | ✅ |
 | Kids With the Greatest Number of Candies | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | ✅ |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/description/ | ✅ |
+| Count Operations to Obtain Zero | https://leetcode.com/problems/count-operations-to-obtain-zero/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

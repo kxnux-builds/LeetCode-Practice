@@ -36,6 +36,7 @@ LeetCode-Practice/
 | Kids With the Greatest Number of Candies | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | ✅ |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/description/ | ✅ |
 | Count Operations to Obtain Zero | https://leetcode.com/problems/count-operations-to-obtain-zero/description/ | ✅ |
+| Reverse String | https://leetcode.com/problems/reverse-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

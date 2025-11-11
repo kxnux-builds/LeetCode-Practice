@@ -56,6 +56,7 @@ LeetCode-Practice/
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/description/ | ✅ |
 | Sort Vowels in a String | https://leetcode.com/problems/sort-vowels-in-a-string/description/ | ✅ |
 | String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/description/ | ✅ |
+| Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

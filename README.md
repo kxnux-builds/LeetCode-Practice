@@ -37,6 +37,7 @@ LeetCode-Practice/
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/description/ | ✅ |
 | Count Operations to Obtain Zero | https://leetcode.com/problems/count-operations-to-obtain-zero/description/ | ✅ |
 | Reverse String | https://leetcode.com/problems/reverse-string/description/ | ✅ |
+| Backspace String Compare | https://leetcode.com/problems/backspace-string-compare/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

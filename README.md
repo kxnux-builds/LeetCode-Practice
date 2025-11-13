@@ -58,6 +58,7 @@ LeetCode-Practice/
 | Sort Vowels in a String | https://leetcode.com/problems/sort-vowels-in-a-string/description/ | ✅ |
 | String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/description/ | ✅ |
 | Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
+| Maximum Number of Operations to Move Ones to the End | https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

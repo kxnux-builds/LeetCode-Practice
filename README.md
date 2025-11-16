@@ -60,6 +60,7 @@ LeetCode-Practice/
 | Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | Maximum Number of Operations to Move Ones to the End | https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/ | ✅ |
 | Increment Submatrices by One | https://leetcode.com/problems/increment-submatrices-by-one/description/ | ✅ |
+| Number of Substrings With Only 1s | https://leetcode.com/problems/number-of-substrings-with-only-1s/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

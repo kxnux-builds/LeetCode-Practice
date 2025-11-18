@@ -39,6 +39,7 @@ LeetCode-Practice/
 | Reverse String | https://leetcode.com/problems/reverse-string/description/ | ✅ |
 | Backspace String Compare | https://leetcode.com/problems/backspace-string-compare/description/ | ✅ |
 | Check If All 1's Are at Least Length K Places Away | https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/ | ✅ |
+| 1-bit and 2-bit Characters | https://leetcode.com/problems/1-bit-and-2-bit-characters/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

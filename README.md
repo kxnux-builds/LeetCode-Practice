@@ -41,6 +41,7 @@ LeetCode-Practice/
 | Check If All 1's Are at Least Length K Places Away | https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/ | ✅ |
 | 1-bit and 2-bit Characters | https://leetcode.com/problems/1-bit-and-2-bit-characters/description/ | ✅ |
 | Keep Multiplying Found Values by Two | https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/ | ✅ |
+| Set Mismatch | https://leetcode.com/problems/set-mismatch/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -42,6 +42,7 @@ LeetCode-Practice/
 | 1-bit and 2-bit Characters | https://leetcode.com/problems/1-bit-and-2-bit-characters/description/ | ✅ |
 | Keep Multiplying Found Values by Two | https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/ | ✅ |
 | Set Mismatch | https://leetcode.com/problems/set-mismatch/description/ | ✅ |
+| Time Needed to Buy Tickets | https://leetcode.com/problems/time-needed-to-buy-tickets/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

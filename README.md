@@ -77,5 +77,6 @@ LeetCode-Practice/
 | Find Minimum in Rotated Sorted Array II | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/ | ✅ |
 | Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring/description/ | ✅ |
 | Subarrays with K Different Integers | https://leetcode.com/problems/subarrays-with-k-different-integers/description/ | ✅ |
+| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 

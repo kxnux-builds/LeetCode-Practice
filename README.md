@@ -68,6 +68,7 @@ LeetCode-Practice/
 | Increment Submatrices by One | https://leetcode.com/problems/increment-submatrices-by-one/description/ | ✅ |
 | Number of Substrings With Only 1s | https://leetcode.com/problems/number-of-substrings-with-only-1s/description/ | ✅ |
 | Smallest Integer Divisible by K | https://leetcode.com/problems/smallest-integer-divisible-by-k/description/ | ✅ |
+| Repeated String Match | https://leetcode.com/problems/repeated-string-match/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -44,6 +44,7 @@ LeetCode-Practice/
 | Set Mismatch | https://leetcode.com/problems/set-mismatch/description/ | ✅ |
 | Time Needed to Buy Tickets | https://leetcode.com/problems/time-needed-to-buy-tickets/description/ | ✅ |
 | How Many Numbers Are Smaller Than the Current Number | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/ | ✅ |
+| Happy Number | https://leetcode.com/problems/happy-number/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

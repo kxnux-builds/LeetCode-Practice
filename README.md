@@ -46,6 +46,7 @@ LeetCode-Practice/
 | How Many Numbers Are Smaller Than the Current Number | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/ | ✅ |
 | Happy Number | https://leetcode.com/problems/happy-number/description/ | ✅ |
 | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/description/ | ✅ |
+| Count Negative Numbers in a Sorted Matrix | https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

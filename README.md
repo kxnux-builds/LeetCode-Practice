@@ -47,6 +47,7 @@ LeetCode-Practice/
 | Happy Number | https://leetcode.com/problems/happy-number/description/ | ✅ |
 | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/description/ | ✅ |
 | Count Negative Numbers in a Sorted Matrix | https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/ | ✅ |
+| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

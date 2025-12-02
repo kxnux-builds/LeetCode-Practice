@@ -48,6 +48,7 @@ LeetCode-Practice/
 | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/description/ | ✅ |
 | Count Negative Numbers in a Sorted Matrix | https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/ | ✅ |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/description/ | ✅ |
+| Can Place Flowers | https://leetcode.com/problems/can-place-flowers/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

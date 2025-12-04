@@ -1,6 +1,6 @@
 /*
 Problem: Remove Duplicates from Sorted List
-Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 Difficulty: Easy
 Topic: Linked List
 

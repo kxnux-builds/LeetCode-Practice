@@ -48,8 +48,8 @@ LeetCode-Practice/
 | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/description/ | ✅ |
 | Count Negative Numbers in a Sorted Matrix | https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/ | ✅ |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/description/ | ✅ |
-| Can Place Flowers | https://leetcode.com/problems/can-place-flowers/ | ✅ |
-| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | ✅ |
+| Can Place Flowers | https://leetcode.com/problems/can-place-flowers/description/ | ✅ |
+| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -76,6 +76,7 @@ LeetCode-Practice/
 | Smallest Integer Divisible by K | https://leetcode.com/problems/smallest-integer-divisible-by-k/description/ | ✅ |
 | Repeated String Match | https://leetcode.com/problems/repeated-string-match/description/ | ✅ |
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/description/ | ✅ |
+| Sort Colors | https://leetcode.com/problems/sort-colors/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

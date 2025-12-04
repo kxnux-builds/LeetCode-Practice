@@ -1,6 +1,6 @@
 /*
 Problem: Can Place Flowers
-Link: https://leetcode.com/problems/can-place-flowers/
+Link: https://leetcode.com/problems/can-place-flowers/description/
 Difficulty: Easy
 Topic: Greedy / Array
 

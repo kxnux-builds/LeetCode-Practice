@@ -50,6 +50,7 @@ LeetCode-Practice/
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/description/ | ✅ |
 | Can Place Flowers | https://leetcode.com/problems/can-place-flowers/description/ | ✅ |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ | ✅ |
+| Count Partitions with Even Sum Difference | https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

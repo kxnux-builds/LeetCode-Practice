@@ -78,6 +78,7 @@ LeetCode-Practice/
 | Repeated String Match | https://leetcode.com/problems/repeated-string-match/description/ | ✅ |
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/description/ | ✅ |
 | Sort Colors | https://leetcode.com/problems/sort-colors/description/ | ✅ |
+| Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

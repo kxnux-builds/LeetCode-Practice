@@ -51,6 +51,7 @@ LeetCode-Practice/
 | Can Place Flowers | https://leetcode.com/problems/can-place-flowers/description/ | ✅ |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ | ✅ |
 | Count Partitions with Even Sum Difference | https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/ | ✅ |
+| Final Prices With a Special Discount in a Shop | https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

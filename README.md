@@ -81,6 +81,7 @@ LeetCode-Practice/
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/description/ | ✅ |
 | Sort Colors | https://leetcode.com/problems/sort-colors/description/ | ✅ |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions/description/ | ✅ |
+| Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

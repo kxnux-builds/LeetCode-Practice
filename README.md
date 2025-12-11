@@ -53,6 +53,7 @@ LeetCode-Practice/
 | Count Partitions with Even Sum Difference | https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/ | ✅ |
 | Final Prices With a Special Discount in a Shop | https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/ | ✅ |
 | Count Square Sum Triples | https://leetcode.com/problems/count-square-sum-triples/description/ | ✅ |
+| Maximum Depth of Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

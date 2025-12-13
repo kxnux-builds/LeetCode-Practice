@@ -85,6 +85,7 @@ LeetCode-Practice/
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions/description/ | ✅ |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/description/ | ✅ |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures/description/ | ✅ |
+| Binary Tree Zigzag Level Order Traversal |  https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

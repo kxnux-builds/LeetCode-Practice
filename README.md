@@ -100,5 +100,6 @@ LeetCode-Practice/
 | Subarrays with K Different Integers | https://leetcode.com/problems/subarrays-with-k-different-integers/description/ | ✅ |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/description/ | ✅ |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle/description/ | ✅ |
+| Vertical Order Traversal of a Binary Tree | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 

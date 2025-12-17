@@ -88,6 +88,7 @@ LeetCode-Practice/
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/description/ | ✅ |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures/description/ | ✅ |
 | Binary Tree Zigzag Level Order Traversal |  https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/ | ✅ |
+| Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

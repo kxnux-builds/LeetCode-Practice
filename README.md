@@ -90,6 +90,7 @@ LeetCode-Practice/
 | Binary Tree Zigzag Level Order Traversal |  https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/ | ✅ |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/ | ✅ |
 | Number of Zero-Filled Subarrays | https://leetcode.com/problems/number-of-zero-filled-subarrays/description/ | ✅ |
+| Amount of Time for Binary Tree to Be Infected | https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -57,6 +57,7 @@ LeetCode-Practice/
 | Cousins in Binary Tree | https://leetcode.com/problems/cousins-in-binary-tree/description/ | ✅ |
 | Number of Students Unable to Eat Lunch | https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/ | ✅ |
 | Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/description/ | ✅ |
+| Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

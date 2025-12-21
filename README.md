@@ -5,17 +5,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 
 ---
 
-## 📁 Folder Structure
-
-LeetCode-Practice/
-├── Easy/
-├── Medium/
-├── Hard/
-├── .gitignore
-└── README.md
-
----
-
 ## ✅ Solved Problems
 
 ### 🟢 Easy
@@ -105,5 +94,19 @@ LeetCode-Practice/
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/description/ | ✅ |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle/description/ | ✅ |
 | Vertical Order Traversal of a Binary Tree | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/ | ✅ |
+| Sudoku Solver | https://leetcode.com/problems/sudoku-solver/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
+
+---
+
+## 📁 Folder Structure
+
+```text
+LeetCode-Practice/
+│
+├── Easy/
+├── Medium/
+├── Hard/
+├── .gitignore
+└── README.md
 

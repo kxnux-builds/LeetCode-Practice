@@ -82,6 +82,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/ | ✅ |
 | Number of Zero-Filled Subarrays | https://leetcode.com/problems/number-of-zero-filled-subarrays/description/ | ✅ |
 | Amount of Time for Binary Tree to Be Infected | https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/ | ✅ |
+| Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

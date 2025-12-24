@@ -48,6 +48,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/description/ | ✅ |
 | Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/description/ | ✅ |
 | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ | ✅ |
+| Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -85,6 +85,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Amount of Time for Binary Tree to Be Infected | https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/ | ✅ |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
+| Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ | ✅ |
 
 ### 🔴 Hard
 

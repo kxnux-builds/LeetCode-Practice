@@ -86,6 +86,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 | Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ | ✅ |
+| Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/ | ✅ |
 
 ### 🔴 Hard
 

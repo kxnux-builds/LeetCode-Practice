@@ -49,6 +49,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/description/ | ✅ |
 | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ | ✅ |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
+| Pascal’s Triangle | https://leetcode.com/problems/pascals-triangle/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -84,9 +85,9 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Number of Zero-Filled Subarrays | https://leetcode.com/problems/number-of-zero-filled-subarrays/description/ | ✅ |
 | Amount of Time for Binary Tree to Be Infected | https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/ | ✅ |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/ | ✅ |
-| New Problem | [Link]() | ❌ |
 | Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ | ✅ |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/ | ✅ |
+| New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
 

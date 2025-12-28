@@ -50,6 +50,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ | ✅ |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
 | Pascal’s Triangle | https://leetcode.com/problems/pascals-triangle/description/ | ✅ |
+| Recover Binary Search Tree | https://leetcode.com/problems/recover-binary-search-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

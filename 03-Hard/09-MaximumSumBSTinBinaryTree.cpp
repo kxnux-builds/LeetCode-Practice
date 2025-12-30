@@ -13,7 +13,7 @@ A subtree is a BST if:
 - Both left and right subtrees must themselves be valid BSTs.
 
 Example:
-Input: root = [1,4,3,2,4,2,5,null,null,null,null,null,null,4,6]  
+Input: root = [1,4,3,2,4,2,5,null,null,null,null,null,null,4,6] 
 Output: 20  
 Explanation: The subtree rooted at 3 is a BST with sum 20.
 

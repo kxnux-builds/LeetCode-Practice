@@ -103,7 +103,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle/description/ | ✅ |
 | Vertical Order Traversal of a Binary Tree | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/ | ✅ |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/description/ | ✅ |
-| Max Number of K-Sum Pairs | https://leetcode.com/problems/max-number-of-k-sum-pairs/description/ | ✅ |
+| Maximum Sum BST in Binary Tree | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

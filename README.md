@@ -104,6 +104,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Vertical Order Traversal of a Binary Tree | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/ | ✅ |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/description/ | ✅ |
 | Maximum Sum BST in Binary Tree | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ | ✅ |
+| Find in Mountain Array | https://leetcode.com/problems/find-in-mountain-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

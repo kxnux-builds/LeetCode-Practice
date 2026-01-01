@@ -105,6 +105,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver/description/ | ✅ |
 | Maximum Sum BST in Binary Tree | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ | ✅ |
 | Find in Mountain Array | https://leetcode.com/problems/find-in-mountain-array/description/ | ✅ |
+| Split Array Largest Sum | https://leetcode.com/problems/split-array-largest-sum/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

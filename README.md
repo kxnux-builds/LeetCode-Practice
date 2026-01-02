@@ -89,6 +89,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ | ✅ |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/ | ✅ |
 | Max Number of K-Sum Pairs | https://leetcode.com/problems/max-number-of-k-sum-pairs/description/ | ✅ |
+| Permutation in String | https://leetcode.com/problems/permutation-in-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -107,6 +107,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Sum BST in Binary Tree | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/ | ✅ |
 | Find in Mountain Array | https://leetcode.com/problems/find-in-mountain-array/description/ | ✅ |
 | Split Array Largest Sum | https://leetcode.com/problems/split-array-largest-sum/description/ | ✅ |
+| Number of Ways to Paint N × 3 Grid | https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

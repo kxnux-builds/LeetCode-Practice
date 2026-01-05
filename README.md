@@ -91,6 +91,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Max Number of K-Sum Pairs | https://leetcode.com/problems/max-number-of-k-sum-pairs/description/ | ✅ |
 | Permutation in String | https://leetcode.com/problems/permutation-in-string/description/ | ✅ |
 | Four Divisors | https://leetcode.com/problems/four-divisors/description/ | ✅ |
+| Maximum Matrix Sum | https://leetcode.com/problems/maximum-matrix-sum/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

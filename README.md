@@ -92,6 +92,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Permutation in String | https://leetcode.com/problems/permutation-in-string/description/ | ✅ |
 | Four Divisors | https://leetcode.com/problems/four-divisors/description/ | ✅ |
 | Maximum Matrix Sum | https://leetcode.com/problems/maximum-matrix-sum/description/ | ✅ |
+| Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

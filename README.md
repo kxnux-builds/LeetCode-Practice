@@ -93,6 +93,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Four Divisors | https://leetcode.com/problems/four-divisors/description/ | ✅ |
 | Maximum Matrix Sum | https://leetcode.com/problems/maximum-matrix-sum/description/ | ✅ |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | ✅ |
+| Maximum Product of Splitted Binary Tree | https://leetcode.com/problems/maximum-product-of-binary-tree/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -112,6 +112,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find in Mountain Array | https://leetcode.com/problems/find-in-mountain-array/description/ | ✅ |
 | Split Array Largest Sum | https://leetcode.com/problems/split-array-largest-sum/description/ | ✅ |
 | Number of Ways to Paint N × 3 Grid | https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/ | ✅ |
+| Max Dot Product of Two Subsequences | https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

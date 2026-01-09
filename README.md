@@ -94,6 +94,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Matrix Sum | https://leetcode.com/problems/maximum-matrix-sum/description/ | ✅ |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | ✅ |
 | Maximum Product of Splitted Binary Tree | https://leetcode.com/problems/maximum-product-of-binary-tree/description/ | ✅ |
+| Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -95,6 +95,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | ✅ |
 | Maximum Product of Splitted Binary Tree | https://leetcode.com/problems/maximum-product-of-binary-tree/description/ | ✅ |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | ✅ |
+| Maximum Number of Vowels in a Substring of Given Length | https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

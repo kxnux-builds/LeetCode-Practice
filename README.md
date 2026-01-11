@@ -50,7 +50,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ | ✅ |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
 | Pascal’s Triangle | https://leetcode.com/problems/pascals-triangle/description/ | ✅ |
-| Recover Binary Search Tree | https://leetcode.com/problems/recover-binary-search-tree/description/ | ✅ |
+| Last Stone Weight | https://leetcode.com/problems/last-stone-weight/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -88,6 +88,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/ | ✅ |
 | Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ | ✅ |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/ | ✅ |
+| Recover Binary Search Tree | https://leetcode.com/problems/recover-binary-search-tree/description/ | ✅ |
 | Max Number of K-Sum Pairs | https://leetcode.com/problems/max-number-of-k-sum-pairs/description/ | ✅ |
 | Permutation in String | https://leetcode.com/problems/permutation-in-string/description/ | ✅ |
 | Four Divisors | https://leetcode.com/problems/four-divisors/description/ | ✅ |

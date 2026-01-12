@@ -51,6 +51,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
 | Pascal’s Triangle | https://leetcode.com/problems/pascals-triangle/description/ | ✅ |
 | Last Stone Weight | https://leetcode.com/problems/last-stone-weight/description/ | ✅ |
+| Kth Largest Element in a Stream | https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -99,6 +99,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | ✅ |
 | Maximum Number of Vowels in a Substring of Given Length | https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/ | ✅ |
 | Separate Squares I | https://leetcode.com/problems/separate-squares-i/description/ | ✅ |
+| Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

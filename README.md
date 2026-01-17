@@ -100,6 +100,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Number of Vowels in a Substring of Given Length | https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/ | ✅ |
 | Separate Squares I | https://leetcode.com/problems/separate-squares-i/description/ | ✅ |
 | Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | ✅ |
+| Maximum Square Area by Removing Fences From a Field | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

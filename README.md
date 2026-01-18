@@ -101,6 +101,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Separate Squares I | https://leetcode.com/problems/separate-squares-i/description/ | ✅ |
 | Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | ✅ |
 | Maximum Square Area by Removing Fences From a Field | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/ | ✅ |
+| Sort List | https://leetcode.com/problems/sort-list/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

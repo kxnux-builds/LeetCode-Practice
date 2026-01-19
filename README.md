@@ -123,6 +123,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Max Dot Product of Two Subsequences | https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/ | ✅ |
 | Separate Squares II | https://leetcode.com/problems/separate-squares-ii/description/ | ✅ |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream/description/ | ✅ |
+| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

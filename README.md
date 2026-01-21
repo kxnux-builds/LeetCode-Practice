@@ -103,6 +103,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | ✅ |
 | Maximum Square Area by Removing Fences From a Field | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/ | ✅ |
 | Sort List | https://leetcode.com/problems/sort-list/description/ | ✅ |
+| Construct the Minimum Bitwise Array II | https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

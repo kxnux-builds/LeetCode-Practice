@@ -53,6 +53,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Last Stone Weight | https://leetcode.com/problems/last-stone-weight/description/ | ✅ |
 | Kth Largest Element in a Stream | https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ | ✅ |
 | Construct the Minimum Bitwise Array I | https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/ | ✅ |
+| Minimum Pair Removal to Sort Array I | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

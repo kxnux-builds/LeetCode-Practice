@@ -105,6 +105,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Square Area by Removing Fences From a Field | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/ | ✅ |
 | Sort List | https://leetcode.com/problems/sort-list/description/ | ✅ |
 | Construct the Minimum Bitwise Array II | https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/ | ✅ |
+| Minimize Maximum Pair Sum in Array | https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

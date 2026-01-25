@@ -47,13 +47,14 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Number of Students Unable to Eat Lunch | https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/ | ✅ |
 | Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/description/ | ✅ |
 | Delete Columns to Make Sorted | https://leetcode.com/problems/delete-columns-to-make-sorted/description/ | ✅ |
-| Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ | ✅ |
+| Find the Index of the First Occurrence in a String | https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/ | ✅ |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ | ✅ |
 | Pascal’s Triangle | https://leetcode.com/problems/pascals-triangle/description/ | ✅ |
 | Last Stone Weight | https://leetcode.com/problems/last-stone-weight/description/ | ✅ |
 | Kth Largest Element in a Stream | https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ | ✅ |
 | Construct the Minimum Bitwise Array I | https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/ | ✅ |
 | Minimum Pair Removal to Sort Array I | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
+| Minimum Difference Between Highest and Lowest of K Scores | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

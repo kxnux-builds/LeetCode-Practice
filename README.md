@@ -130,6 +130,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream/description/ | ✅ |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists/description/ | ✅ |
 | Minimum Pair Removal to Sort Array II | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/ | ✅ |
+| Smallest Range Covering Elements from K Lists | https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

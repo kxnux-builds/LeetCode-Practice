@@ -131,6 +131,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists/description/ | ✅ |
 | Minimum Pair Removal to Sort Array II | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/ | ✅ |
 | Smallest Range Covering Elements from K Lists | https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/ | ✅ |
+| SConstruct Target Array With Multiple Sums | https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

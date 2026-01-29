@@ -107,6 +107,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Sort List | https://leetcode.com/problems/sort-list/description/ | ✅ |
 | Construct the Minimum Bitwise Array II | https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/ | ✅ |
 | Minimize Maximum Pair Sum in Array | https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/ | ✅ |
+| Masking Personal Information | https://leetcode.com/problems/masking-personal-information/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

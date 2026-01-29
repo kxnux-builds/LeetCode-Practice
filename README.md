@@ -108,6 +108,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Construct the Minimum Bitwise Array II | https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/ | ✅ |
 | Minimize Maximum Pair Sum in Array | https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/ | ✅ |
 | Masking Personal Information | https://leetcode.com/problems/masking-personal-information/description/ | ✅ |
+| Smallest Subsequence of Distinct Characters | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
@@ -134,6 +135,15 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Range Covering Elements from K Lists | https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/ | ✅ |
 | SConstruct Target Array With Multiple Sums | https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
+
+---
+
+## Credits & Links
+
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
 ---
 

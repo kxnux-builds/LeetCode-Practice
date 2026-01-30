@@ -55,6 +55,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Construct the Minimum Bitwise Array I | https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/ | ✅ |
 | Minimum Pair Removal to Sort Array I | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
 | Minimum Difference Between Highest and Lowest of K Scores | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
+| Repeated Substring Pattern | https://leetcode.com/problems/repeated-substring-pattern/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

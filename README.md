@@ -56,6 +56,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Pair Removal to Sort Array I | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
 | Minimum Difference Between Highest and Lowest of K Scores | https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/ | ✅ |
 | Repeated Substring Pattern | https://leetcode.com/problems/repeated-substring-pattern/description/ | ✅ |
+| Divide an Array Into Subarrays With Minimum Cost I | https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -111,6 +111,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimize Maximum Pair Sum in Array | https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/ | ✅ |
 | Masking Personal Information | https://leetcode.com/problems/masking-personal-information/description/ | ✅ |
 | Smallest Subsequence of Distinct Characters | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/ | ✅ |
+| Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

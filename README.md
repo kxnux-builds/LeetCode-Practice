@@ -112,6 +112,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Masking Personal Information | https://leetcode.com/problems/masking-personal-information/description/ | ✅ |
 | Smallest Subsequence of Distinct Characters | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/ | ✅ |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/description/ | ✅ |
+| Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

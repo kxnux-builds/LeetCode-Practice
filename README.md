@@ -58,6 +58,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Repeated Substring Pattern | https://leetcode.com/problems/repeated-substring-pattern/description/ | ✅ |
 | Divide an Array Into Subarrays With Minimum Cost I | https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/ | ✅ |
 | Find the Highest Altitude | https://leetcode.com/problems/find-the-highest-altitude/description/ | ✅ |
+| Transformed Array | https://leetcode.com/problems/transformed-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

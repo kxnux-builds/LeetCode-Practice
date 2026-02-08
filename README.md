@@ -117,6 +117,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/description/ | ✅ |
 | Sum Root to Leaf Numbers | https://leetcode.com/problems/sum-root-to-leaf-numbers/description/ | ✅ |
 | Minimum Removals to Balance Array | https://leetcode.com/problems/minimum-removals-to-balance-array/description/ | ✅ |
+| Merge Intervals | https://leetcode.com/problems/merge-intervals/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -118,6 +118,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Sum Root to Leaf Numbers | https://leetcode.com/problems/sum-root-to-leaf-numbers/description/ | ✅ |
 | Minimum Removals to Balance Array | https://leetcode.com/problems/minimum-removals-to-balance-array/description/ | ✅ |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals/description/ | ✅ |
+| Insert Interval | https://leetcode.com/problems/insert-interval/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

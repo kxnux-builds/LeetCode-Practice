@@ -146,6 +146,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Range Covering Elements from K Lists | https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/ | ✅ |
 | SConstruct Target Array With Multiple Sums | https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/ | ✅ |
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive/description/ | ✅ |
+| Longest Balanced Subarray II | https://leetcode.com/problems/longest-balanced-subarray-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

@@ -120,6 +120,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Merge Intervals | https://leetcode.com/problems/merge-intervals/description/ | ✅ |
 | Insert Interval | https://leetcode.com/problems/insert-interval/description/ | ✅ |
 | Longest Balanced Subarray I | https://leetcode.com/problems/longest-balanced-subarray-i/description/ | ✅ |
+| Make Sum Divisible by P | https://leetcode.com/problems/make-sum-divisible-by-p/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

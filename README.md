@@ -121,6 +121,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Insert Interval | https://leetcode.com/problems/insert-interval/description/ | ✅ |
 | Longest Balanced Subarray I | https://leetcode.com/problems/longest-balanced-subarray-i/description/ | ✅ |
 | Make Sum Divisible by P | https://leetcode.com/problems/make-sum-divisible-by-p/description/ | ✅ |
+| Ways to Make a Fair Array | https://leetcode.com/problems/ways-to-make-a-fair-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

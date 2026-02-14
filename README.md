@@ -59,6 +59,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Divide an Array Into Subarrays With Minimum Cost I | https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/ | ✅ |
 | Find the Highest Altitude | https://leetcode.com/problems/find-the-highest-altitude/description/ | ✅ |
 | Transformed Array | https://leetcode.com/problems/transformed-array/description/ | ✅ |
+| Isomorphic Strings | https://leetcode.com/problems/isomorphic-strings/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

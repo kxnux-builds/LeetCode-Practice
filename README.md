@@ -60,6 +60,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find the Highest Altitude | https://leetcode.com/problems/find-the-highest-altitude/description/ | ✅ |
 | Transformed Array | https://leetcode.com/problems/transformed-array/description/ | ✅ |
 | Isomorphic Strings | https://leetcode.com/problems/isomorphic-strings/description/ | ✅ |
+| Add Binary | https://leetcode.com/problems/add-binary/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

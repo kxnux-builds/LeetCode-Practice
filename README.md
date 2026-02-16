@@ -61,6 +61,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Transformed Array | https://leetcode.com/problems/transformed-array/description/ | ✅ |
 | Isomorphic Strings | https://leetcode.com/problems/isomorphic-strings/description/ | ✅ |
 | Add Binary | https://leetcode.com/problems/add-binary/description/ | ✅ |
+| Reverse Bits | https://leetcode.com/problems/reverse-bits/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

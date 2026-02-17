@@ -62,6 +62,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Isomorphic Strings | https://leetcode.com/problems/isomorphic-strings/description/ | ✅ |
 | Add Binary | https://leetcode.com/problems/add-binary/description/ | ✅ |
 | Reverse Bits | https://leetcode.com/problems/reverse-bits/description/ | ✅ |
+| Binary Watch | https://leetcode.com/problems/binary-watch/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

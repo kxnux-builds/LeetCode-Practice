@@ -63,6 +63,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Add Binary | https://leetcode.com/problems/add-binary/description/ | ✅ |
 | Reverse Bits | https://leetcode.com/problems/reverse-bits/description/ | ✅ |
 | Binary Watch | https://leetcode.com/problems/binary-watch/description/ | ✅ |
+| Binary Number with Alternating Bits | https://leetcode.com/problems/binary-number-with-alternating-bits/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

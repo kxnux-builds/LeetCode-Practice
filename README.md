@@ -64,6 +64,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Bits | https://leetcode.com/problems/reverse-bits/description/ | ✅ |
 | Binary Watch | https://leetcode.com/problems/binary-watch/description/ | ✅ |
 | Binary Number with Alternating Bits | https://leetcode.com/problems/binary-number-with-alternating-bits/description/ | ✅ |
+| Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

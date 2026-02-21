@@ -65,6 +65,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Binary Watch | https://leetcode.com/problems/binary-watch/description/ | ✅ |
 | Binary Number with Alternating Bits | https://leetcode.com/problems/binary-number-with-alternating-bits/description/ | ✅ |
 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/description/ | ✅ |
+| Prime Number of Set Bits in Binary Representation | https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

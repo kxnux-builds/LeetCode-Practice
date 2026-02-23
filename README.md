@@ -130,6 +130,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Make Sum Divisible by P | https://leetcode.com/problems/make-sum-divisible-by-p/description/ | ✅ |
 | Ways to Make a Fair Array | https://leetcode.com/problems/ways-to-make-a-fair-array/description/ | ✅ |
 | Longest Subarray of 1’s After Deleting One Element | https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/ | ✅ |
+| Check If a String Contains All Binary Codes of Size K | https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

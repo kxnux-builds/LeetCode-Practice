@@ -67,6 +67,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/description/ | ✅ |
 | Prime Number of Set Bits in Binary Representation | https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/ | ✅ |
 | Sum of Root To Leaf Binary Numbers | https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/ | ✅ |
+| Sort Integers by The Number of 1 Bits | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -137,6 +137,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Flatten a Multilevel Doubly Linked List | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/ | ✅ |
 | Partitioning Into Minimum Number Of Deci-Binary Numbers | https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/ | ✅ |
 | Ways to Make a Fair Array | https://leetcode.com/problems/ways-to-make-a-fair-array/description/ | ✅ |
+| Gas Station | https://leetcode.com/problems/gas-station/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

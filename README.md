@@ -138,6 +138,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Partitioning Into Minimum Number Of Deci-Binary Numbers | https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/ | ✅ |
 | Ways to Make a Fair Array | https://leetcode.com/problems/ways-to-make-a-fair-array/description/ | ✅ |
 | Gas Station | https://leetcode.com/problems/gas-station/description/ | ✅ |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

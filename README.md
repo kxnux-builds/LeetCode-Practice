@@ -68,6 +68,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Prime Number of Set Bits in Binary Representation | https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/ | ✅ |
 | Sum of Root To Leaf Binary Numbers | https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/ | ✅ |
 | Sort Integers by The Number of 1 Bits | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ | ✅ |
+| Minimum Changes To Make Alternating Binary String | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

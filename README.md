@@ -141,6 +141,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Gas Station | https://leetcode.com/problems/gas-station/description/ | ✅ |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum/description/ | ✅ |
 | Reduction Operations to Make the Array Elements Equal | https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/ | ✅ |
+| Minimum Number of Flips to Make the Binary String Alternating | https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

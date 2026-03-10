@@ -144,6 +144,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Number of Flips to Make the Binary String Alternating | https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/ | ✅ |
 | Find Unique Binary String | https://leetcode.com/problems/find-unique-binary-string/description/ | ✅ |
 | Sum of Square Numbers | https://leetcode.com/problems/sum-of-square-numbers/description/ | ✅ |
+| Sort an Array | https://leetcode.com/problems/sort-an-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

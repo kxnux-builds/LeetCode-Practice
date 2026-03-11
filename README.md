@@ -145,6 +145,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find Unique Binary String | https://leetcode.com/problems/find-unique-binary-string/description/ | ✅ |
 | Sum of Square Numbers | https://leetcode.com/problems/sum-of-square-numbers/description/ | ✅ |
 | Sort an Array | https://leetcode.com/problems/sort-an-array/description/ | ✅ |
+| Insertion Sort List | https://leetcode.com/problems/insertion-sort-list/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

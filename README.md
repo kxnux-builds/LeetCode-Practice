@@ -147,6 +147,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Sort an Array | https://leetcode.com/problems/sort-an-array/description/ | ✅ |
 | Insertion Sort List | https://leetcode.com/problems/insertion-sort-list/description/ | ✅ |
 | Subsets | https://leetcode.com/problems/subsets/description/ | ✅ |
+| Minimum Number of Seconds to Make Mountain Height Zero | https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

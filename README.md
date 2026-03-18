@@ -151,6 +151,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Number of Seconds to Make Mountain Height Zero | https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/description/ | ✅ |
 | Insertion Sort List | https://leetcode.com/problems/insertion-sort-list/description/ | ✅ |
 | Beautiful Array | https://leetcode.com/problems/beautiful-array/description/ | ✅ |
+| Count Submatrices With Top-Left Element and Sum Less Than k | https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

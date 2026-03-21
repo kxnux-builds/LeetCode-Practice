@@ -70,6 +70,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Sort Integers by The Number of 1 Bits | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ | ✅ |
 | Minimum Changes To Make Alternating Binary String | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/ | ✅ |
 | Binary Search | https://leetcode.com/problems/binary-search/description/ | ✅ |
+| Flip Square Submatrix Vertically | https://leetcode.com/problems/flip-square-submatrix-vertically/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

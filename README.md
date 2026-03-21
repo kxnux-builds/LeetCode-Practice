@@ -180,6 +180,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive/description/ | ✅ |
 | Longest Balanced Subarray II | https://leetcode.com/problems/longest-balanced-subarray-ii/description/ | ✅ |
 | Special Binary String | https://leetcode.com/problems/special-binary-string/description/ | ✅ |
+| Reverse Pairs | https://leetcode.com/problems/reverse-pairs/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

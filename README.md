@@ -154,6 +154,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Beautiful Array | https://leetcode.com/problems/beautiful-array/description/ | ✅ |
 | Count Submatrices With Top-Left Element and Sum Less Than k | https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/ | ✅ |
 | Count Submatrices With Equal Frequency of X and Y | https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/ | ✅ |
+| Combination Sum | https://leetcode.com/problems/combination-sum/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

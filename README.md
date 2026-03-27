@@ -73,6 +73,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Flip Square Submatrix Vertically | https://leetcode.com/problems/flip-square-submatrix-vertically/description/ | ✅ |
 | Determine Whether Matrix Can Be Obtained By Rotation | https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/ | ✅ |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes/description/ | ✅ |
+| Matrix Similarity After Cyclic Shifts | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -157,7 +158,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count Submatrices With Equal Frequency of X and Y | https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/ | ✅ |
 | Combination Sum | https://leetcode.com/problems/combination-sum/description/ | ✅ |
 | Construct Product Matrix | https://leetcode.com/problems/construct-product-matrix/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

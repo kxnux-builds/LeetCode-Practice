@@ -72,6 +72,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Binary Search | https://leetcode.com/problems/binary-search/description/ | ✅ |
 | Flip Square Submatrix Vertically | https://leetcode.com/problems/flip-square-submatrix-vertically/description/ | ✅ |
 | Determine Whether Matrix Can Be Obtained By Rotation | https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/ | ✅ |
+| Move Zeroes | https://leetcode.com/problems/move-zeroes/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

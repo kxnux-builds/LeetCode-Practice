@@ -74,7 +74,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Determine Whether Matrix Can Be Obtained By Rotation | https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/ | ✅ |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes/description/ | ✅ |
 | Matrix Similarity After Cyclic Shifts | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/ | ✅ |
-
+| Check if Strings Can Be Made Equal With Operations I | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -74,6 +74,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Determine Whether Matrix Can Be Obtained By Rotation | https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/ | ✅ |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes/description/ | ✅ |
 | Matrix Similarity After Cyclic Shifts | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

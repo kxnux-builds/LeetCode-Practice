@@ -159,6 +159,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count Submatrices With Equal Frequency of X and Y | https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/ | ✅ |
 | Combination Sum | https://leetcode.com/problems/combination-sum/description/ | ✅ |
 | Construct Product Matrix | https://leetcode.com/problems/construct-product-matrix/description/ | ✅ |
+| Check if Strings Can Be Made Equal With Operations II | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

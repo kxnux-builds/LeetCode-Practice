@@ -161,7 +161,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Combination Sum | https://leetcode.com/problems/combination-sum/description/ | ✅ |
 | Construct Product Matrix | https://leetcode.com/problems/construct-product-matrix/description/ | ✅ |
 | Check if Strings Can Be Made Equal With Operations II | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/ | ✅ |
-
+| Robot Return to Origin | https://leetcode.com/problems/robot-return-to-origin/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

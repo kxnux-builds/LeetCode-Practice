@@ -76,7 +76,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Matrix Similarity After Cyclic Shifts | https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/ | ✅ |
 | Check if Strings Can Be Made Equal With Operations I | https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/ | ✅ |
 | Robot Return to Origin | https://leetcode.com/problems/robot-return-to-origin/description/ | ✅ |
-
+| Minimum Distance to the Target Element | https://leetcode.com/problems/minimum-distance-to-the-target-element/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -166,6 +166,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Robot Return to Origin | https://leetcode.com/problems/robot-return-to-origin/description/ | ✅ |
 | Minimum Distance Between Three Equal Elements II | https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/ | ✅ |
 | Minimum Absolute Distance Between Mirror Pairs | https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

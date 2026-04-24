@@ -78,6 +78,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Robot Return to Origin | https://leetcode.com/problems/robot-return-to-origin/description/ | ✅ |
 | Minimum Distance to the Target Element | https://leetcode.com/problems/minimum-distance-to-the-target-element/description/ | ✅ |
 | Shortest Distance to Target String in a Circular Array | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/ | ✅ |
+| Furthest Point From Origin | https://leetcode.com/problems/furthest-point-from-origin/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

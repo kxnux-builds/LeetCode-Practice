@@ -169,7 +169,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Absolute Distance Between Mirror Pairs | https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/ | ✅ |
 | Maximum Distance Between a Pair of Values | https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/ | ✅ |
 | Words Within Two Edits of Dictionary | https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

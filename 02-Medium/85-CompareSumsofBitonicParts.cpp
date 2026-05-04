@@ -78,13 +78,13 @@ public:
             leftSum += nums[i];
         }
 
-        for (int i = peak + 1; i < n; i++) {
+        for (int i = peak; i < n; i++) {
             rightSum += nums[i];
         }
 
         // Step 3: compare
-        if (leftSum > rightSum) return 1;
+        if (leftSum > rightSum) return 0;
         if (leftSum < rightSum) return -1;
-        return 0;
+        return -1;
     }
 };

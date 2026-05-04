@@ -84,7 +84,7 @@ public:
 
         // Step 3: compare
         if (leftSum > rightSum) return 0;
-        if (leftSum < rightSum) return -1;
+        if (leftSum < rightSum) return 1;
         return -1;
     }
 };

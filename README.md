@@ -170,7 +170,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Distance Between a Pair of Values | https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/ | ✅ |
 | Words Within Two Edits of Dictionary | https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/ | ✅ |
 | Compare Sums of Bitonic Parts | https://leetcode.com/problems/compare-sums-of-bitonic-parts/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

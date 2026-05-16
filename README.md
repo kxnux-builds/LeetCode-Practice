@@ -200,6 +200,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Longest Balanced Subarray II | https://leetcode.com/problems/longest-balanced-subarray-ii/description/ | ✅ |
 | Special Binary String | https://leetcode.com/problems/special-binary-string/description/ | ✅ |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs/description/ | ✅ |
+| Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

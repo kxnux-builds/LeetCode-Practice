@@ -171,7 +171,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Words Within Two Edits of Dictionary | https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/ | ✅ |
 | Compare Sums of Bitonic Parts | https://leetcode.com/problems/compare-sums-of-bitonic-parts/description/ | ✅ |
 | Rotating the Box | https://leetcode.com/problems/rotating-the-box/description/ | ✅ |
-
+| Find the Prefix Common Array of Two Arrays | https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

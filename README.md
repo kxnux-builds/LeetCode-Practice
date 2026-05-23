@@ -79,6 +79,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Distance to the Target Element | https://leetcode.com/problems/minimum-distance-to-the-target-element/description/ | ✅ |
 | Shortest Distance to Target String in a Circular Array | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/ | ✅ |
 | Furthest Point From Origin | https://leetcode.com/problems/furthest-point-from-origin/description/ | ✅ |
+| Check if Array Is Sorted and Rotated | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

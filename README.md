@@ -80,6 +80,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Shortest Distance to Target String in a Circular Array | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/ | ✅ |
 | Furthest Point From Origin | https://leetcode.com/problems/furthest-point-from-origin/description/ | ✅ |
 | Check if Array Is Sorted and Rotated | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/ | ✅ |
+| Count the Number of Special Characters I | https://leetcode.com/problems/count-the-number-of-special-characters-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

@@ -176,6 +176,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Rotating the Box | https://leetcode.com/problems/rotating-the-box/description/ | ✅ |
 | Find the Prefix Common Array of Two Arrays | https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/ | ✅ |
 | Count the Number of Special Characters II | https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/ | ✅ |
+| Create Binary Tree From Descriptions | https://leetcode.com/problems/create-binary-tree-from-descriptions/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

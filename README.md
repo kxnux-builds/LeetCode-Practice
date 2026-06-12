@@ -178,7 +178,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count the Number of Special Characters II | https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/ | ✅ |
 | Create Binary Tree From Descriptions | https://leetcode.com/problems/create-binary-tree-from-descriptions/description/ | ✅ |
 | Total Waviness of Numbers in Range I | https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

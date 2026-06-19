@@ -82,6 +82,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Check if Array Is Sorted and Rotated | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/ | ✅ |
 | Count the Number of Special Characters I | https://leetcode.com/problems/count-the-number-of-special-characters-i/description/ | ✅ |
 | Left and Right Sum Differences | https://leetcode.com/problems/left-and-right-sum-differences/description/ | ✅ |
+| Verifying an Alien Dictionary | https://leetcode.com/problems/verifying-an-alien-dictionary/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -178,7 +179,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count the Number of Special Characters II | https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/ | ✅ |
 | Create Binary Tree From Descriptions | https://leetcode.com/problems/create-binary-tree-from-descriptions/description/ | ✅ |
 | Total Waviness of Numbers in Range I | https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

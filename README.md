@@ -181,7 +181,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Total Waviness of Numbers in Range I | https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/ | ✅ |
 | Number of Provinces | https://leetcode.com/problems/number-of-provinces/description/ | ✅ |
 | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

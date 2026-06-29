@@ -182,6 +182,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Number of Provinces | https://leetcode.com/problems/number-of-provinces/description/ | ✅ |
 | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/description/ | ✅ |
 | Maximum Element After Decreasing and Rearranging | https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

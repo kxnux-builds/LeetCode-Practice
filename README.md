@@ -183,6 +183,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/description/ | ✅ |
 | Maximum Element After Decreasing and Rearranging | https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/ | ✅ |
 | Number of Substrings Containing All Three Characters | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

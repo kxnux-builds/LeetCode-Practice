@@ -83,6 +83,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count the Number of Special Characters I | https://leetcode.com/problems/count-the-number-of-special-characters-i/description/ | ✅ |
 | Left and Right Sum Differences | https://leetcode.com/problems/left-and-right-sum-differences/description/ | ✅ |
 | Verifying an Alien Dictionary | https://leetcode.com/problems/verifying-an-alien-dictionary/description/ | ✅ |
+| Concatenate Non-Zero Digits and Multiply by Sum I | https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -184,7 +185,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Element After Decreasing and Rearranging | https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/ | ✅ |
 | Number of Substrings Containing All Three Characters | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ | ✅ |
 | Minimum Score of a Path Between Two Cities | https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

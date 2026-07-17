@@ -185,7 +185,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Element After Decreasing and Rearranging | https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/ | ✅ |
 | Number of Substrings Containing All Three Characters | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ | ✅ |
 | Minimum Score of a Path Between Two Cities | https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
@@ -216,6 +215,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Special Binary String | https://leetcode.com/problems/special-binary-string/description/ | ✅ |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs/description/ | ✅ |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group/description/ | ✅ |
+| Critical Connections in a Network | https://leetcode.com/problems/critical-connections-in-a-network/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

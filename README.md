@@ -84,6 +84,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Left and Right Sum Differences | https://leetcode.com/problems/left-and-right-sum-differences/description/ | ✅ |
 | Verifying an Alien Dictionary | https://leetcode.com/problems/verifying-an-alien-dictionary/description/ | ✅ |
 | Concatenate Non-Zero Digits and Multiply by Sum I | https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/ | ✅ |
+| Find Greatest Common Divisor of Array | https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

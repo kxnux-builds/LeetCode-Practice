@@ -186,6 +186,8 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Element After Decreasing and Rearranging | https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/ | ✅ |
 | Number of Substrings Containing All Three Characters | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/ | ✅ |
 | Minimum Score of a Path Between Two Cities | https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/ | ✅ |
+| Smallest Subsequence of Distinct Characters | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -189,7 +189,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Score of a Path Between Two Cities | https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/ | ✅ |
 | Smallest Subsequence of Distinct Characters | https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/ | ✅ |
 | Minimum Number of Pushes to Type Word II | https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/ | ✅ |
-
+| Predict the Winner | https://leetcode.com/problems/predict-the-winner/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

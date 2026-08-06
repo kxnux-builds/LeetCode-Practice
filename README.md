@@ -86,6 +86,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Concatenate Non-Zero Digits and Multiply by Sum I | https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/ | ✅ |
 | Find Greatest Common Divisor of Array | https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/ | ✅ |
 | Maximum Product of Three Numbers | https://leetcode.com/problems/maximum-product-of-three-numbers/description/ | ✅ |
+| Smallest Divisible Digit Product I | https://leetcode.com/problems/smallest-divisible-digit-product-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

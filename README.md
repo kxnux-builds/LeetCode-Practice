@@ -192,7 +192,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Number of Pushes to Type Word II | https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/ | ✅ |
 | Predict the Winner | https://leetcode.com/problems/predict-the-winner/description/ | ✅ |
 | Stone Game | https://leetcode.com/problems/stone-game/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

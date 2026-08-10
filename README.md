@@ -193,6 +193,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Predict the Winner | https://leetcode.com/problems/predict-the-winner/description/ | ✅ |
 | Stone Game | https://leetcode.com/problems/stone-game/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
+
 ### 🔴 Hard
 
 | Problem | LeetCode Link | Solution |

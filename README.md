@@ -87,6 +87,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find Greatest Common Divisor of Array | https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/ | ✅ |
 | Maximum Product of Three Numbers | https://leetcode.com/problems/maximum-product-of-three-numbers/description/ | ✅ |
 | Smallest Divisible Digit Product I | https://leetcode.com/problems/smallest-divisible-digit-product-i/description/ | ✅ |
+| Find Missing Elements | https://leetcode.com/problems/find-missing-elements/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

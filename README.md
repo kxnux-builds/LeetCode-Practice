@@ -88,6 +88,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Maximum Product of Three Numbers | https://leetcode.com/problems/maximum-product-of-three-numbers/description/ | ✅ |
 | Smallest Divisible Digit Product I | https://leetcode.com/problems/smallest-divisible-digit-product-i/description/ | ✅ |
 | Find Missing Elements | https://leetcode.com/problems/find-missing-elements/description/ | ✅ |
+| Distribute Elements Into Two Arrays I | https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

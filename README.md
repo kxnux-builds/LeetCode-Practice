@@ -195,7 +195,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Predict the Winner | https://leetcode.com/problems/predict-the-winner/description/ | ✅ |
 | Stone Game | https://leetcode.com/problems/stone-game/description/ | ✅ |
 | Lexicographically Smallest Permutation Greater Than Target | https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 ### 🔴 Hard
 

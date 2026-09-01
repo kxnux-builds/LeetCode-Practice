@@ -197,6 +197,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Lexicographically Smallest Permutation Greater Than Target | https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/ | ✅ |
 | Removing Minimum and Maximum From Array | https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/ | ✅ |
 | Find the Minimum and Maximum Number of Nodes Between Critical Points | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/ | ✅ |
+| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 ### 🔴 Hard
 

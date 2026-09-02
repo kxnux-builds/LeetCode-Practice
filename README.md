@@ -89,6 +89,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Divisible Digit Product I | https://leetcode.com/problems/smallest-divisible-digit-product-i/description/ | ✅ |
 | Find Missing Elements | https://leetcode.com/problems/find-missing-elements/description/ | ✅ |
 | Distribute Elements Into Two Arrays I | https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/ | ✅ |
+| Smallest Missing Multiple of K | https://leetcode.com/problems/smallest-missing-multiple-of-k/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

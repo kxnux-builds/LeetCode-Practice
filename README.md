@@ -90,7 +90,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find Missing Elements | https://leetcode.com/problems/find-missing-elements/description/ | ✅ |
 | Distribute Elements Into Two Arrays I | https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/ | ✅ |
 | Smallest Missing Multiple of K | https://leetcode.com/problems/smallest-missing-multiple-of-k/description/ | ✅ |
-
+| Smallest Stable Index I | https://leetcode.com/problems/smallest-stable-index-i/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

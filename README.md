@@ -203,6 +203,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Stable Index II | https://leetcode.com/problems/smallest-stable-index-ii/description/ | ✅ |
 
 | New Problem | [Link]() | ❌ |
+
 ### 🔴 Hard
 
 | Problem | LeetCode Link | Solution |

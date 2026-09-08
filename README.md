@@ -201,6 +201,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find the Minimum and Maximum Number of Nodes Between Critical Points | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/ | ✅ |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/description/ | ✅ |
 | Smallest Stable Index II | https://leetcode.com/problems/smallest-stable-index-ii/description/ | ✅ |
+| Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

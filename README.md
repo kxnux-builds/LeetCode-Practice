@@ -92,7 +92,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Missing Multiple of K | https://leetcode.com/problems/smallest-missing-multiple-of-k/description/ | ✅ |
 | Smallest Stable Index I | https://leetcode.com/problems/smallest-stable-index-i/description/ | ✅ |
 | Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -203,6 +202,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Find the Minimum and Maximum Number of Nodes Between Critical Points | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/ | ✅ |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/description/ | ✅ |
 | Smallest Stable Index II | https://leetcode.com/problems/smallest-stable-index-ii/description/ | ✅ |
+| Count Commas in Range II | https://leetcode.com/problems/count-commas-in-range-ii/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

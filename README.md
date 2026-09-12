@@ -203,6 +203,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/description/ | ✅ |
 | Smallest Stable Index II | https://leetcode.com/problems/smallest-stable-index-ii/description/ | ✅ |
 | Count Commas in Range II | https://leetcode.com/problems/count-commas-in-range-ii/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -92,6 +92,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Missing Multiple of K | https://leetcode.com/problems/smallest-missing-multiple-of-k/description/ | ✅ |
 | Smallest Stable Index I | https://leetcode.com/problems/smallest-stable-index-i/description/ | ✅ |
 | Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
+| Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

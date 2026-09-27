@@ -93,7 +93,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Stable Index I | https://leetcode.com/problems/smallest-stable-index-i/description/ | ✅ |
 | Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
 | Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
-
+| Evaluate the Bracket Pairs of a String | https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

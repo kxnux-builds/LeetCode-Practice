@@ -1,10 +1,8 @@
 /*
     ============================================================
     Problem: Evaluate the Bracket Pairs of a String
-    LeetCode: 1807
 
-    Link:
-    https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/
+    Link: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/
 
     Difficulty: Medium
     Topic: String, Hash Map, Simulation

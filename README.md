@@ -95,6 +95,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
 | Evaluate the Bracket Pairs of a String | https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/ | ✅ |
 | Reverse Substrings Between Each Pair of Parentheses | https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/ | ✅ |
+| Coin Change | https://leetcode.com/problems/coin-change/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

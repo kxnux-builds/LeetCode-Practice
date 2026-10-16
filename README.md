@@ -97,7 +97,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Substrings Between Each Pair of Parentheses | https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/ | ✅ |
 | Coin Change | https://leetcode.com/problems/coin-change/description/ | ✅ |
 | Score of Parentheses | https://leetcode.com/problems/score-of-parentheses/description/ | ✅ |
-
+| Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

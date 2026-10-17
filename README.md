@@ -93,11 +93,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Smallest Stable Index I | https://leetcode.com/problems/smallest-stable-index-i/description/ | ✅ |
 | Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
 | Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
-| Evaluate the Bracket Pairs of a String | https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/ | ✅ |
-| Reverse Substrings Between Each Pair of Parentheses | https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/ | ✅ |
-| Coin Change | https://leetcode.com/problems/coin-change/description/ | ✅ |
-| Score of Parentheses | https://leetcode.com/problems/score-of-parentheses/description/ | ✅ |
-| Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -211,7 +206,11 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count Commas in Range II | https://leetcode.com/problems/count-commas-in-range-ii/description/ | ✅ |
 | House Robber | https://leetcode.com/problems/house-robber/description/ | ✅ |
 | House Robber II | https://leetcode.com/problems/house-robber-ii/description/ | ✅ |
-
+| Evaluate the Bracket Pairs of a String | https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/ | ✅ |
+| Reverse Substrings Between Each Pair of Parentheses | https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/ | ✅ |
+| Coin Change | https://leetcode.com/problems/coin-change/description/ | ✅ |
+| Score of Parentheses | https://leetcode.com/problems/score-of-parentheses/description/ | ✅ |
+| Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
@@ -243,6 +242,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs/description/ | ✅ |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group/description/ | ✅ |
 | Critical Connections in a Network | https://leetcode.com/problems/critical-connections-in-a-network/description/ | ✅ |
+| Remove Invalid Parentheses | https://leetcode.com/problems/remove-invalid-parentheses/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ---

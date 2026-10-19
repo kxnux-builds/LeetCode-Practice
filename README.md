@@ -94,6 +94,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Count Commas in Range | https://leetcode.com/problems/count-commas-in-range/description/ | ✅ |
 | Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
 | Remove Outermost Parentheses | https://leetcode.com/problems/remove-outermost-parentheses/description/ | ✅ |
+| Find Target Indices After Sorting Array | https://leetcode.com/problems/find-target-indices-after-sorting-array/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

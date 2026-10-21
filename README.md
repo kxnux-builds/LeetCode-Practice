@@ -213,7 +213,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Coin Change | https://leetcode.com/problems/coin-change/description/ | ✅ |
 | Score of Parentheses | https://leetcode.com/problems/score-of-parentheses/description/ | ✅ |
 | Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
-
+| Minimum Operations to Sort a String | https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

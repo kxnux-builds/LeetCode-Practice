@@ -133,4 +133,4 @@ public:
         // Otherwise, three operations are sufficient for n >= 3
         return 3;
     }
-}
+};

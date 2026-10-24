@@ -215,7 +215,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/ | ✅ |
 | Minimum Operations to Sort a String | https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/ | ✅ |
 | Unique Paths | https://leetcode.com/problems/unique-paths/description/ | ✅ |
-
+| Map of Highest Peak | https://leetcode.com/problems/map-of-highest-peak/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

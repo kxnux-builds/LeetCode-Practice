@@ -216,6 +216,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Minimum Operations to Sort a String | https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/ | ✅ |
 | Unique Paths | https://leetcode.com/problems/unique-paths/description/ | ✅ |
 | Map of Highest Peak | https://leetcode.com/problems/map-of-highest-peak/description/ | ✅ |
+| Number of Closed Islands | https://leetcode.com/problems/number-of-closed-islands/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

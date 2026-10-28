@@ -95,6 +95,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Reverse Degree of a String | https://leetcode.com/problems/reverse-degree-of-a-string/description/ | ✅ |
 | Remove Outermost Parentheses | https://leetcode.com/problems/remove-outermost-parentheses/description/ | ✅ |
 | Find Target Indices After Sorting Array | https://leetcode.com/problems/find-target-indices-after-sorting-array/description/ | ✅ |
+| Create Grid With Exactly One Path | https://leetcode.com/problems/create-grid-with-exactly-one-path/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium
@@ -218,7 +219,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Map of Highest Peak | https://leetcode.com/problems/map-of-highest-peak/description/ | ✅ |
 | Number of Closed Islands | https://leetcode.com/problems/number-of-closed-islands/description/ | ✅ |
 | Count Islands With Total Value Divisible by K | https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

@@ -219,6 +219,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Map of Highest Peak | https://leetcode.com/problems/map-of-highest-peak/description/ | ✅ |
 | Number of Closed Islands | https://leetcode.com/problems/number-of-closed-islands/description/ | ✅ |
 | Count Islands With Total Value Divisible by K | https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/ | ✅ |
+
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard

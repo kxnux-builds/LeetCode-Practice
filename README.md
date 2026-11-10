@@ -96,6 +96,7 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Remove Outermost Parentheses | https://leetcode.com/problems/remove-outermost-parentheses/description/ | ✅ |
 | Find Target Indices After Sorting Array | https://leetcode.com/problems/find-target-indices-after-sorting-array/description/ | ✅ |
 | Create Grid With Exactly One Path | https://leetcode.com/problems/create-grid-with-exactly-one-path/description/ | ✅ |
+| Find the Distance Value Between Two Arrays | https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/ | ✅ |
 | New Problem | [Link]() | ❌ |
 
 ### 🟡 Medium

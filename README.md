@@ -221,7 +221,6 @@ Each solution includes **code, approach explanation, and complexity analysis**.
 | Number of Closed Islands | https://leetcode.com/problems/number-of-closed-islands/description/ | ✅ |
 | Count Islands With Total Value Divisible by K | https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/description/ | ✅ |
 | Minimum Moves to Equal Array Elements | https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/ | ✅ |
-
 | New Problem | [Link]() | ❌ |
 
 ### 🔴 Hard
